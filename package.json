@@ -1,0 +1,28 @@
+{
+  "name": "middlewares",
+  "version": "0.1.0",
+  "description": "organize your functions into middlewares ala express",
+  "main": "middlewares.js",
+  "scripts": {
+    "test": "mocha test --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nherment/node-middlewares"
+  },
+  "keywords": [
+    "middlewares",
+    "async"
+  ],
+  "author": "Nicolas Herment <nherment@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nherment/node-middlewares/issues"
+  },
+  "homepage": "https://github.com/nherment/node-middlewares",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
