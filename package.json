@@ -1,6 +1,6 @@
 {
   "name": "middlewares",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "organize your functions into middlewares ala express",
   "main": "Middlewares.js",
   "scripts": {
