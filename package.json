@@ -2,7 +2,7 @@
   "name": "middlewares",
   "version": "0.1.0",
   "description": "organize your functions into middlewares ala express",
-  "main": "middlewares.js",
+  "main": "Middlewares.js",
   "scripts": {
     "test": "mocha test --reporter spec"
   },
